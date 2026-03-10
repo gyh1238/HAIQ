@@ -1,0 +1,12 @@
+# Large notebook outputs (contain embedded images/plots)
+CQF/hardcoding_highshot.ipynb
+CQF/hardcoding_rowshot.ipynb
+CQF/test_constraint.ipynb
+CQF/test_weight.ipynb
+CQF/intra_assignment_qiskit1.1.ipynb
+
+# Compiled
+CQF/run_qiskit
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
